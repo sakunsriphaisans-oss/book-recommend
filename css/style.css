@@ -1,0 +1,39 @@
+
+.border-bg-pink {
+  background-color: #fcc9e8be; /* กำหนดพื้นหลังเป็นสีชมพูพาสเทลอ่อน */
+}
+
+h3 {
+  font-family: 'IBM Plex Sans Thai', sans-serif;
+}
+
+p {
+    text-indent: 100px;
+}
+
+h2 {
+  font-family: 'Prompt', sans-serif;
+}
+
+.pink {color: #ff0062be;}
+
+.bodyja{
+  background-color: #a4e5ff3d;
+  font-family: 'Prompt', 'IBM Plex Sans Thai', sans-serif;
+  line-height: 1.8;
+}
+
+.navbarpink {
+    background-color: #FFF8FF; /* สีชมพูอ่อนมาก */
+}
+
+.custom-carousel {
+    max-width: 600px;  /* ปรับขนาดตามต้องการ */
+    max-height: 400px; /* ปรับความสูงตามต้องการ */
+    margin: 0 auto;    /* จัดให้อยู่ตรงกลาง */
+}
+
+.custom-carousel img {
+    object-fit: cover;  /* ป้องกันภาพยืดผิดสัดส่วน */
+    height: 100%;
+}
